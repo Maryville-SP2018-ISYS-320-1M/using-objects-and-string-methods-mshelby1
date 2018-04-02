@@ -9,5 +9,6 @@ public class P2_BananaStand {
 	public static void main(String[] args) {
 		String quote = "There's always money in the banana stand.";
 		System.out.println(quote.toUpperCase(quote.substring(28, 33)));
+		System.out.println(lasthalf( quote ));
 	}
 }

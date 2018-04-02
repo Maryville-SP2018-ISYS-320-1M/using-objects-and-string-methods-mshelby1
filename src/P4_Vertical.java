@@ -7,7 +7,7 @@
 public class P4_Vertical {
 
 	public static void main(String[] args) {
-		vertical("hello");
+		System.out.print(vertical("hello"));
 	}
 	
 }

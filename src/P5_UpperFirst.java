@@ -8,7 +8,7 @@ public class P5_UpperFirst {
 
 	public static void main(String[] args) {
 		String str1 = "Tiger Woods";
-		str1.upperFirst("Tiger Woods", ".");
+		System.out.println(str1.upperFirst("Tiger Woods", " "));
 	}
 
 }
